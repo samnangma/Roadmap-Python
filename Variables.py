@@ -1,5 +1,3 @@
-Var
-
 age = 20
 price = 19.20
 first_name = 20
